@@ -41,7 +41,7 @@
 ## Framework
 
 ### Spring Legacy
-
+- [🔗 projects repository](https://github.com/woojin-study-archive/spring-legacy-lectures)
 * [Spring 관심사 분리와 리팩터링](https://woojin-devv.github.io/posts/Spring-preview/)
 * Spring Framework란? `작성 예정`
 * Spring Legacy Project 구조 `작성 예정`
